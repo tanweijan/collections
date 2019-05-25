@@ -1,0 +1,9 @@
+[package]
+name = "collections"
+version = "0.1.0"
+authors = ["westan <tanweijian.pg@gmail.com>"]
+edition = "2018"
+description = "the library for common data collection"
+license = "MIT"
+
+[dependencies]
